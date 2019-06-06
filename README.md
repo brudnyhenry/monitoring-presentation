@@ -1,2 +1,4 @@
-# monitoring-presentation
-Pesentation from https://slides.com/adamadam-2/monitoring-2
+https://brudnyhenry.github.io/monitoring-presentation/#/
+
+Monitoring with Prometheus,Grafana,Alert Manager stack
+
